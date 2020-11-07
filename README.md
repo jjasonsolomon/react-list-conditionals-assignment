@@ -1,9 +1,9 @@
-#It is a Assignment Solution for React- The Complete guide course by Academind Udemy Course
+# It is a Assignment Solution for React- The Complete guide course by Academind Udemy Course
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
 
 
-#Assignment Question
+# Assignment Question
 
 
 Create an input field (in App component) with a change listener which outputs the length of the entered text below it (e.g. in a paragraph).
